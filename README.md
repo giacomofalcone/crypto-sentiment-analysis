@@ -2,6 +2,8 @@
 
 Analyzing social media sentiment to predict cryptocurrency crashes. This project examines Reddit discussions, Google Trends, and machine learning models to identify early warning signs of market downturns.
 
+**My first Data Science project, focusing on sentiment analysis and market prediction.** It contains some errors and imperfections.
+
 ## 📌 Project Overview
 Cryptocurrencies are highly volatile assets, with prices often influenced by social media sentiment. This project investigates whether analyzing Reddit discussions and Google search trends can help anticipate major cryptocurrency crashes, using **FTX** and **Terra** as case studies.
 
@@ -19,11 +21,11 @@ Cryptocurrencies are highly volatile assets, with prices often influenced by soc
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/giacomofalcone/crypto-sentiment-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd crypto-sentiment-analysis
    ```
 3. Install dependencies:
    ```bash
