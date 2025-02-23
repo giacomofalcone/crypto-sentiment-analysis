@@ -29,8 +29,8 @@ Cryptocurrencies are highly volatile assets, with prices often influenced by soc
 ## 📂 Repository Structure
 ```
 /notebooks
-    - sentiment_analysis.ipynb
-    - market_prediction.ipynb
+    - FTX.ipynb
+    - Terra.ipynb
 /data
     - reddit_data.csv
     - google_trends.csv
