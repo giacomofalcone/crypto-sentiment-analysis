@@ -18,24 +18,6 @@ Cryptocurrencies are highly volatile assets, with prices often influenced by soc
 - **VADER Sentiment Analysis** (For sentiment scoring)
 - **Scikit-Learn (Random Forest Regression)** (For price prediction)
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/giacomofalcone/crypto-sentiment-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd crypto-sentiment-analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter notebooks:
-   ```bash
-   jupyter notebook
-   ```
-
 ## 📊 Key Findings
 - **Increased negative sentiment correlates with market crashes.**
 - **Reddit discussions peak before major crashes**, indicating potential early warning signals.
@@ -54,15 +36,9 @@ Cryptocurrencies are highly volatile assets, with prices often influenced by soc
     - google_trends.csv
     - crypto_prices.csv
 README.md
-requirements.txt
 ```
 
 ## 🔍 Future Work
 - Improve machine learning models for better generalization.
 - Test on a broader range of cryptocurrencies.
 - Explore deep learning approaches for sentiment analysis.
-
----
-
-💡 *If you find this project useful, feel free to star the repository and contribute!* 🌟
-
