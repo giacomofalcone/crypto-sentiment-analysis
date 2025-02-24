@@ -22,9 +22,7 @@ Cryptocurrencies are highly volatile assets, with prices often influenced by soc
 - **Increased negative sentiment correlates with market crashes.**
 - **Reddit discussions peak before major crashes**, indicating potential early warning signals.
 - **Google Trends spikes align with market instability periods.**
-- **Machine learning predictions** (Random Forest Regression) achieved:
-  - R² ≈ **0.89** on internal tests
-  - Moderate accuracy on unseen data (indicating potential for improvement)
+- **Machine learning predictions** (Random Forest Regression) achieved a moderate accuracy on unseen data (indicating potential for improvement)
 
 ## 📂 Repository Structure
 ```
