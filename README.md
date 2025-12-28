@@ -1,8 +1,8 @@
 # 📊 Crypto Sentiment Analysis & Market Prediction
 
-Analyzing social media sentiment to predict cryptocurrency crashes. This project examines Reddit discussions, Google Trends, and machine learning models to identify early warning signs of market downturns.
+> **Note:** This project was developed in Early 2024. It is an educational experiment designed to test if social media data could serve as a leading indicator for the market downturns of specific cryptocurrencies.
 
-**My first Data Science project, focusing on sentiment analysis and market prediction.** It contains some errors and imperfections.
+Analyzing social media sentiment to predict cryptocurrency crashes. This project examines Reddit discussions, Google Trends, and machine learning models to identify early warning signs of market downturns.
 
 ## 📌 Project Overview
 Cryptocurrencies are highly volatile assets, with prices often influenced by social media sentiment. This project investigates whether analyzing Reddit discussions and Google search trends can help anticipate major cryptocurrency crashes, using **FTX** and **Terra** as case studies.
